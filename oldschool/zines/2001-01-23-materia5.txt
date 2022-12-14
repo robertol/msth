@@ -1,0 +1,17 @@
+*** Topic is 'Anti Security Hackers (ASH) IRC Channel |||
+ NEWS: Anti Security Hackers (ASH) e responsavel pelo ataque a UOL (DDoS)
+- FONTE: www.insecurenet.com.br | Worm RAMEN usa exploits recentes
+para atacar seus alvos - FONTE: www.iss.net ||| Anti Security Hackers (ASH)
+ - The Truth In Security'
+*** Set by VUGO on Sun Nov 19 08:04:24
+
+Quem entra no canal já acha q eles são os fodões...
+Eles derrubaram o UOL e nem o UOL nem mais ninguem viu, soh eles
+e o site do amigo deles, vai ver que a hora marcada todos do grupo
+hax0r (Anti Security Hax0res - As transformistas mais l33ts do
+undergrudi) todas elas executaram o msadc.pl em cima do www.uol.com.br
+e ele caiu de tanta tentativa de conexao hax0r tentando requisitar
+/msadc/msadcs.dll hihihi
+
+
+by PESTE
