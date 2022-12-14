@@ -1,0 +1,64 @@
+Será VUGO Verbal Killer (O rei do IIS) doente mental?
+
+ Quando ele entra no canal hackernews e alguem zoa com ele,
+ele apenas escreve um conjunto de letras sinistras conhecidas 
+como '(risos)', aí nos pensamos: "Oque pode significar isto?",
+como uma pessoa pode ser zoada desta forma e apenas escrever (risos)?
+ Seria alguma forma de expressar se em modo de querer ser diferente
+dos outros ou é alguma forma de debilidade mental?
+ Ainda nessa, ele adora um floodzinho, principalmente com contador
+manual para o eggdrop do canal nao o banir, algo como:
+<VUGO> (risos)1
+<VUGO> (risos)2
+<VUGO> (risos)3
+<VUGO> (risos)1
+<VUGO> (risos)2
+<VUGO> (risos)3
+ e assim vai, talvez sua mente nao esteja progredindo, e sim 
+regredindo, e isto é sinal de debilidade mental...
+
+ Quando ele owna IIS por UNICODE, RDS, Asp bug, e diabo a quatro
+que só a nossa grande empresa MICROSOFT sabe fazer e sai mandando
+emails para todos os tipos de paginas de mirrors, com sempre as 
+mesmas mensagens: "O server possui falhas na segurança que possibilitam
+que atacantes remotos comprometam os dados armazenados no server."
+e "Fuckz: A todos aqueles que nos criticam sem nenhum motivo aparente
+e aos IRC GUYS que acessam o canal da HNB, fazendo do canal (elaborado
+para troca de informações) um verdadeiro bordel.", Regressao mental?
+Ou tentativa de fazer sucesso rapidamente com uma coisa tão estúpida?
+ Se voce fala pra ele que ele soh owna IIS, ele vai falar dos IRIX
+que ele ownou, tah, os IRIX que ele ownou pelo bug do telnetd que ele
+nem deve saber como funciona, acho que quando ele entra num sistema 
+desses ele deve executa a seguinte sequencia de comandos:
+# cd /var/www/html (dependendo do dir do root web)
+# mv index.html index.old
+# echo Hacked By anti security hackers Vugo Verbal Killer (VUGO) > index.html
+# rm -rf /var/log
+# exit
+ E manda emails pra tudo que é lugar falando que hackeou um UNIX!!!!!
+ Mais um sinal de debilidade mental...
+
+ Outra inesquecivel: quando ele é banido no canal, se ele nao gosta
+da pessoa ele dah um *superhackeador* ctcp version, pra que?
+ Soh para saber o sistema que a pessoa está? Para tentar hackear?
+Não vejo utilidade nisso, nenhuma pessoa por mais que seja estranha,
+nunca vi fazer isso, isto é uma coisa anormal...
+
+ Ele fica praticamente 24 horas por dia na net, um nerdzão, e tem
+ums habitos estranhissímos, como ficar vigiando seus inimigos até
+que saiam do irc para usar o nick deles... Não entendo isso...
+ Será que ele faz isso porque sente algum tipo de tesão em usar
+o nick dos inimigos? Ou será que ele espera que alguem venha mandar
+uma mensagem pensando que é a verdadeira pessoa compromentendo 
+informacoes sobre o tal? Como o nome da pessoa? Caso seja, se ver
+o nick peste-negra no irc com ident VUGO escreva /msg peste-negra 
+Ae José
+ Ou entao ae joão, invente um nome :)
+
+
+
+
+
+
+Materia escrita por PESTE
+Tire suas proprias conclusoes...
