@@ -9,146 +9,50 @@
       "date": "2000-11-07",
       "title": "Hax0res que não sabe ler nos enviam emails",
       "content": "Eu quase nao acreditei quando vi, sim!! Ums hax0res conseguiram enviar email!!! Depois de tanta surpresa, nós fomos ler os emails, leia aki: email1 email2",
-      "attachment1": "De:  \"The Doors [NLH]\" <thedoors@mail.com>   
-Data:  Sun, 5 Nov 2000 13:39:58 -0200  
-Para:  <nonex@zipmail.com.br>  
-Assunto:  acerca de sua brilhante pagina/   
-
---------------------------------------------------------------------------------
-
-
-pera aih, deixa eu ver se eu entendi, os \"lammers\" aos quais voce se refere
-em sua pagina sao lammers mas VOCES naos sao, neh? afinal, muito hacker essa
-sua pagina, muito 3l337, neh?
-voce jah pensou em dar aula de |-|4<|<1|\|6? não, nunca?
-voce parece ser tao bom, afinal, sabe ateh usar trojan!
-
-hahahahaah
-
-ah vai morrer no Brás, cara
-
-Doors
- ",
-      "attachment2": "De:  <razael@solaris.kz>   
-Data:  Sat, 4 Nov 2000 22:01:06 -0200  
-Para:  nonex@zipmail.com.br  
-Assunto:  hi   
-  
---------------------------------------------------------------------------------
-
-
-
-Cara...sua imbecilidade e sua burrice me deixam triste 
-essa cultura \"haqer\" brasileira e tao patetica que nao da nem pra
-explicar..e tao desprezivel e tao burra que e de chorar.
-voces sao os caras mais merdas que eu ja vi...sao o lixo do lixo...chamar
-voces de \"hackers\" e uma piada de mal gosto. alias de muito mal gosto, me
-caguei de rir em ver tua pagina...e tao patetica..haahu voce seria melhor
-humorista."
+      "attachment1": "zines/2000-11-07-email1.txt",
+      "attachment2": "zines/2000-11-07-email2.txt"
     },
     {
       "date": "2000-11-17",
       "title": "Hax0r nos envia email dizendo que nós somos hackers de windows",
       "content": "Eles estão evoluindo, haha, agora eles também mandam mensagens em ingles mas não sabem ler o portugues, leia aki.",
-      "attachment1": "De:  \"Mauro Dias Ribeiro Junior\" <maurodrj@terra.com.br>   
-Data:  Wed, 15 Nov 2000 07:40:35 -0000  
-Para:  <nonex@zipmail.com.br>  
-Assunto:  stupid   
-  
---------------------------------------------------------------------------------
-
-
-
-so you tell that you and your guy's are hackers?
-hacker's using windows that's so bad
-may you can install conectiva to i fuck u off
-hhehhe
- 
-see ya
- 
- 
-                                #linux@BrasIRC
- 
-
-
-
---------------------------------------------------------------------------------
-Nossa resposta:
-
-
-Where in the site we are telling the stupid guys that don´t know how to
-read that we are hackers?
-Conectiva is the linux distro that u stupid guys use, with KDE.
-don´t send me stupid messages if you don´t know read..."
+      "attachment1": "zines/2000-11-17-email3.txt"
     },
     {
-      "date": "2000-11-17",
+      "date": "2000-12-21",
       "title": "Será vugo o rei do IIS um doente mental?",
       "content": "O VUGO nos parece tao estranho, leia a nossa materia aki.",
-      "attachment1": "Será VUGO Verbal Killer (O rei do IIS) doente mental?
-
- Quando ele entra no canal hackernews e alguem zoa com ele,
-ele apenas escreve um conjunto de letras sinistras conhecidas 
-como '(risos)', aí nos pensamos: \"Oque pode significar isto?\",
-como uma pessoa pode ser zoada desta forma e apenas escrever (risos)?
- Seria alguma forma de expressar se em modo de querer ser diferente
-dos outros ou é alguma forma de debilidade mental?
- Ainda nessa, ele adora um floodzinho, principalmente com contador
-manual para o eggdrop do canal nao o banir, algo como:
-<VUGO> (risos)1
-<VUGO> (risos)2
-<VUGO> (risos)3
-<VUGO> (risos)1
-<VUGO> (risos)2
-<VUGO> (risos)3
- e assim vai, talvez sua mente nao esteja progredindo, e sim 
-regredindo, e isto é sinal de debilidade mental...
-
- Quando ele owna IIS por UNICODE, RDS, Asp bug, e diabo a quatro
-que só a nossa grande empresa MICROSOFT sabe fazer e sai mandando
-emails para todos os tipos de paginas de mirrors, com sempre as 
-mesmas mensagens: \"O server possui falhas na segurança que possibilitam
-que atacantes remotos comprometam os dados armazenados no server.\"
-e \"Fuckz: A todos aqueles que nos criticam sem nenhum motivo aparente
-e aos IRC GUYS que acessam o canal da HNB, fazendo do canal (elaborado
-para troca de informações) um verdadeiro bordel.\", Regressao mental?
-Ou tentativa de fazer sucesso rapidamente com uma coisa tão estúpida?
- Se voce fala pra ele que ele soh owna IIS, ele vai falar dos IRIX
-que ele ownou, tah, os IRIX que ele ownou pelo bug do telnetd que ele
-nem deve saber como funciona, acho que quando ele entra num sistema 
-desses ele deve executa a seguinte sequencia de comandos:
-# cd /var/www/html (dependendo do dir do root web)
-# mv index.html index.old
-# echo Hacked By anti security hackers Vugo Verbal Killer (VUGO) > index.html
-# rm -rf /var/log
-# exit
- E manda emails pra tudo que é lugar falando que hackeou um UNIX!!!!!
- Mais um sinal de debilidade mental...
-
- Outra inesquecivel: quando ele é banido no canal, se ele nao gosta
-da pessoa ele dah um *superhackeador* ctcp version, pra que?
- Soh para saber o sistema que a pessoa está? Para tentar hackear?
-Não vejo utilidade nisso, nenhuma pessoa por mais que seja estranha,
-nunca vi fazer isso, isto é uma coisa anormal...
-
- Ele fica praticamente 24 horas por dia na net, um nerdzão, e tem
-ums habitos estranhissímos, como ficar vigiando seus inimigos até
-que saiam do irc para usar o nick deles... Não entendo isso...
- Será que ele faz isso porque sente algum tipo de tesão em usar
-o nick dos inimigos? Ou será que ele espera que alguem venha mandar
-uma mensagem pensando que é a verdadeira pessoa compromentendo 
-informacoes sobre o tal? Como o nome da pessoa? Caso seja, se ver
-o nick peste-negra no irc com ident VUGO escreva /msg peste-negra 
-Ae José
- Ou entao ae joão, invente um nome :)
-
-
-
-
-
-
-Materia escrita por PESTE
-Tire suas proprias conclusoes..."
+      "attachment1": "zines/2000-12-21-materia1.txt"
+    },
+    {
+      "date": "2001-01-01",
+      "title": "Hax0reamento local!",
+      "content": "Interessante é fazer defacement em páginas na própria makina, leia aki.",
+      "attachment1": "zines/2001-01-01-materia3.txt"
+    },
+    {
+      "date": "2001-01-18",
+      "title": "Ser hax0r ou ser raquiçor? Eis a questao...",
+      "content": "Um cara chamado SpyMan ou Leonardo, veja a revelacao sobre ele nesta materia.",
+      "attachment1": "zines/2001-01-18-materia4.txt"
+    },
+    {
+      "date": "2001-01-23",
+      "title": "Super DDoS hax0r derruba (?) o uol...",
+      "content": "Alem de hax0r e transformista o vugo tb é mentiroso.",
+      "attachment1": "zines/2001-01-23-materia5.txt"
+    },
+    {
+      "date": "2001-02-10",
+      "title": "Soh dah hax0r...",
+      "content": "Hax0ragem na securenet...",
+      "attachment1": "zines/2001-02-10-materia6.txt"
+    },
+    {
+      "date": "2001-03-08",
+      "title": "Hax0rweiser sifu novamente.",
+      "content": "Hax0rweiser (akele do hax0r psaux), se mete em ripar exploit e mandar pra bugtraq e toma no, leia aki...",
+      "attachment1": "zines/2001-03-08-materia7.txt"
     }
   ]
 }
