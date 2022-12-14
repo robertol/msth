@@ -1,0 +1,123 @@
+Hax0rweiser se acha a coisa mais "lita" e se ferra novamente
+
+ Lalala. Comeca mais um dia, vou ler meus emails vindo da bugtraq
+(a mais famosa lista sobre seguranca do mundo), e vi um email sem
+subject, e olhei la estava:
+hi,
+
+this is an exploit for wu-ftpd 2.6.1(1) on linux
+propz to segv for giving this to me
+
+bringin' you the 0day from the hackweiser crew, australian
++chapter
+
+cya,
+Till
+
+----
+
+/*
+* Linux wu-ftpd - 2.6.1(1)
+*
+* DiGiT
+*/
+
+#include <sys/socket.h>
+#include <sys/types.h>
+#include <stdio.h>
+#include <netinet/in.h>
+#include <netdb.h>
+/* cortado!! huhu */
+
+_______________________________
+The Proton
+<proton@dshs.nsw.edu.au>
+_______________________________
+
+Ja estava saindo, e pensei "sera mais um exploit ripado?", e fui embora,
+no dia seguinte (hoje), fui dar uma olhada no tal exploit, as "grandes"
+linhas no caso seriam:
+
+  sprintf (cmdbuf, "SITE EXEC
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaabbbb%c%c\xff%c%c",
+           (reta & 0x000000ff), (reta & 0x0000ff00) >> 8,
+           (reta & 0x00ff0000) >> 16, (reta & 0xff000000) >> 24);
+ Mas pere aih, esse bug do site exec nao eh do wu ftpd 2.6.0 (dos
+bem velhao) ? AUIHihuaUIOHIOAhiohAOUIHUIO, esse povo me mata!! Daih
+eu fui olhar os emails e olhe as respostas pro otario ali (vou colocar
+algumas):
+
+==========================================================
+On Wed, Mar 07, 2001 at 04:40:05AM +0100, Nomen Nescio wrote:
+> this is an exploit for wu-ftpd 2.6.1(1) on linux
+> propz to segv for giving this to me
+
+This is an old wuftpd 2.6.0 SITE EXEC exploit. 2.6.1 is not vulnerable
+to this attack.
+
+>   strcpy (cmdbuf, "SITE EXEC ");
+>   for (ret = 0; ret <= 88; ret++)
+>     {
+>       strcat (cmdbuf, "%x");
+>     }
+
+==========================================================
+Nomen Nescio wrote:
+>
+> hi,
+>
+> this is an exploit for wu-ftpd 2.6.1(1) on linux
+> propz to segv for giving this to me
+>
+> bringin' you the 0day from the hackweiser crew, australian
+> +chapter
+>
+> cya,
+> Till
+>
+> ----
+>
+> /*
+>  * Linux wu-ftpd - 2.6.1(1)
+>  *
+>  * DiGiT
+>  */
+
+Correct me if I'm wrong,but this is exploit for wu 2.6.0 not
+2.6.1...This format string bug has been fixed in 2.6.1.
+
+--
+signoff predator
+==========================================================
+jogchem@kryptology:~$ diff wu2.6.1.c wu-lnx.c
+jogchem@kryptology:~$
+
+Exactly the same as the previously release wu-lnx.c exploit.
+http://packetstorm.securify.com/0009-exploits/wu-lnx.c
+
+kinda a hoax?? :)
+
+On Wednesday 07 March 2001 04:40, you wrote:
+> hi,
+>
+> this is an exploit for wu-ftpd 2.6.1(1) on linux
+> propz to segv for giving this to me
+>
+> bringin' you the 0day from the hackweiser crew, australian
+> +chapter
+>
+> cya,
+> Till
+==========================================================
+ Essa ultima resposta foi a mais engracada!! O cara do hax0rweiser
+(hackerweiser?) ripou o wu-lnx.c e foi descoberto bem rapido, que
+vergonha!! Vai aprender a escrever um exploit vai gayzao hUAHUAhuaHU.
+Pqp. como pode ser tao imbecil assim?
+
+"bringin' you the 0day from the hackweiser crew" /* AHUhuAHUahuaHUah */
+"bringin' you the old-ripped-832789075day exploit from the hax0rweiser crew"
+
+
+hueHUhuehuHUHUEHUA
+Falo, PESTE 
+dia 7 do 3
