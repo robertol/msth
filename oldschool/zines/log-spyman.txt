@@ -1,0 +1,168 @@
+
+Session Start: Sat Aug 12 19:19:30 2000
+<[Hi2K]InOcEnTs> ola
+<[Hi2K]InOcEnTs> opa
+<[Hi2K]InOcEnTs> sou do hi2k
+<[Hi2K]InOcEnTs> e queria fazer uma entrevista com vc
+<[Hi2K]InOcEnTs> tem tempo livre?
+<SpyMan> dit's depend
+<[Hi2K]InOcEnTs> podemos fazer?
+<SpyMan> sim
+<[Hi2K]> pronto
+<[Hi2K]> Idade
+<SpyMan> 23 anos
+<[Hi2K]> O que te motivou a fazer o livro : "Manual Completo do HACKER" ?
+<SpyMan> a internet
+<SpyMan> quem é você Hi2K?
+<[Hi2K]> sou redator da nova hp Hi2K
+<[Hi2K]> entrevistas com kras que escrevem livros para hackers
+<[Hi2K]> podemos continuaR?
+<[Hi2K]> podemos continuaR?
+<SpyMan> ok
+<SpyMan> podemos
+<SpyMan> sua hp vai se sobre q?
+<[Hi2K]> entrevistas 
+<[Hi2K]> zines
+<[Hi2K]> tudo sobre o underground
+<SpyMan> a bom
+<SpyMan> interessante..
+<SpyMan> você é lammer?
+<[Hi2K]> não gracas ao seu livro
+<[Hi2K]> tipo
+<[Hi2K]> leio bastante.. Seguranca maxima
+<[Hi2K]> etc
+<SpyMan> que está lendo agora?
+<[Hi2K]> Linux
+<SpyMan> qual livro?
+<[Hi2K]> Aprendendo Linux
+<[Hi2K]> eh eu ou vc que tah fazendo a entrevista?
+<SpyMan> kra entrevista se faz assim
+<[Hi2K]> kra
+<[Hi2K]> sou reporter
+<[Hi2K]> trabalho para o estadao
+<[Hi2K]> nao quer dar entrevista?
+<[Hi2K]> se rolar legal
+<[Hi2K]> ponho ateh uma no estadao
+<SpyMan> em uma conversa normal, abordando os temas que você quer, daí depois seleciona os topicos principais.
+<SpyMan> posso crer?
+<[Hi2K]> sim
+<SpyMan> que garantia você me dah?
+<[Hi2K]> tipo
+<[Hi2K]> era para expandir seu livro
+<[Hi2K]> deixa queto
+<SpyMan> ok's
+<[Hi2K]> vamo continuar?
+<SpyMan> importa onde você colocar a minha entrvista já me ajuda com marketing, etc!
+<SpyMan> sim...
+<[Hi2K]> há rumores que seu livro são varios textos copiados da internet isto é verdade?
+<SpyMan> Sim, a partes que foram revisadas por mim, mas sem dúvida algumas partes do livro foram cópias da internet, por isso deixei aquele tópico no fim do livro. Sobre os direitos autorais que se reservam a quem escreveu o texto. Sendo que, caso o escritor provar que foi ele quem escreveu, posso colocar o nome dele no meu livro, ou fazer o que ele quizer
+<SpyMan> sabe direitos autorais...
+<SpyMan> é coisa séria!
+<[Hi2K]> sim... 
+<[Hi2K]> você é hacker né?
+<SpyMan> Não totalmente...
+<[Hi2K]> o que seria o não totalmente /
+<[Hi2K]> o que seria o não totalmente ?
+<SpyMan> Que não sou um grande hacker!
+<SpyMan> entendeu..
+<SpyMan> Me dei bem ao fazer o livro e agora tenho muitos fãs!
+<[Hi2K]> assim...
+<[Hi2K]> vc conhece aquela historia de pessoas que nao sabem nada sobre o underground e que quer que alguem a ensine
+<[Hi2K]> vc já passou por isso e porisso escreveu o livro?
+<SpyMan> Qaul é seu nome?
+<[Hi2K]> Marcos 
+<SpyMan> dq?
+<SpyMan> trabalha em qual dp. do Estadão?
+<[Hi2K]> redação
+<[Hi2K]> na parte de computação
+<[Hi2K]> me responde a pergunta que eu lhe fiz ?
+<SpyMan> Resp a pergunta: Jáh passei, muitas vezes por calunias na internet, em busca de aprender algo sobre a underground, pedia a lammers, me ignoravam, um sacrifício, resolvi então fazer um livro, mergular na internet em busca da solução desse meu problema, e dái a encontrei, e pensei, muitos querem e precisam de ajuda e estão sendo ignorados, farei um livro, em minha homenagem, e ajuda ao próximo.
+<[Hi2K]> eu estava analizando o livro e percebi que 
+<[Hi2K]> o que tem nele
+<[Hi2K]> mesmo
+<[Hi2K]> eh o basico
+<[Hi2K]> ninguem se tornaria um hacker lendo ele você confirma isso neh ?
+<SpyMan> sim...
+<[Hi2K]> você pretende fazer outra edicao do livro quando possuir mais conhecimentos?
+<SpyMan> Jamais com um só livro uma pessoa se torna hacker, demora anos de estudos, as vezes até sem prodízios, mas o meu livro jáh é uma boa ajuda 30% do caminho andado...
+<SpyMan> sim eu pretendo a outros que me ajudarem...
+<[Hi2K]> então se você souber
+<[Hi2K]> tudo de irc, alguns comandos de linux e criar virus está tomando o caminho certo?
+<SpyMan> sim..
+<[Hi2K]> quando você percebeu : "eu sou um hacker e posso já escrever um livro sobre" ?
+<SpyMan> Um grande caminho, para começar quem sabe criar um virus, não é um simples usuário de internet. Entende... 
+<[Hi2K]> você é de algum clan\grupo de hacker?
+<SpyMan> não sou um novo hacker!
+<SpyMan> mas jáh tenho contatos com vários grupos?
+<[Hi2K]> quais ? alguns famosos?
+<SpyMan> Nenhum famoso, na verdade saum alguns crackers brasileiros e argentinos, entende a diferença entre hacker e cracker neh?
+<[Hi2K]> sim
+<[Hi2K]> mas gostaria de explicar aos leitores? (talvés eles não saibam) 
+<SpyMan> sim
+<[Hi2K]> explique entao
+<SpyMan> hacker: expert em computador, invade sist. em busca de informações , para ele e não faz estrago ao site que invade, sóh retira as informações, comercializando a,  e os hackers, trabalham muitas vezes contra os crackers
+<SpyMan> crakers: usuário mal intensionados, estragam os sistemas e sites alheios
+<[Hi2K]> então você não acha que a policia devia estar atraz de crackers e não hackers?
+<SpyMan> você é da onde?
+<SpyMan> isso...
+<[Hi2K]> sou de sao paulo
+<[Hi2K]> o que você acha da SunOs ? 
+<[Hi2K]> o que você acha do SunOs ? 
+<SpyMan> não uso. este sistema
+<SpyMan> não posso dizer nada
+<[Hi2K]> você é um usuario linux né?
+<SpyMan> sim
+<SpyMan> linux/windows
+<[Hi2K]> muita gente
+<[Hi2K]> me manda email para perguntar para você
+<[Hi2K]> por que todas as vezes que você conecta na rede , não conecta pelo linux?
+<SpyMan> em todas
+<SpyMan> nem todas
+<[Hi2K]> por que? algum motivo especial , que o linux não consiga fazer e que o windows faca?
+<SpyMan> eu uso linux somente para invadir...
+<[Hi2K]> você sabia que a tecnica de WiNuke já foi protegida a anos?
+<SpyMan> sim
+<SpyMan> vixi
+<[Hi2K]> e porque você pois no seu livro?|
+<SpyMan> tudo tem que ter a base para aprender o pilar?
+<SpyMan> entende..
+<[Hi2K]> você poderia nos dar
+<[Hi2K]> +/- uma nocao de o que é necessario para invadir?
+<[Hi2K]> +/- uma nocao de o que é necessario para invadir home pages 
+<SpyMan> o fundamento da construção é essencial para que lea não caia
+<SpyMan> como você irá colocar algo assim em um jornal?
+<[Hi2K]> isso eu tirarei do jornal
+<[Hi2K]> colocarei a entrevista com isso na hp do hi2k 
+<SpyMan> isso tem no meu livro...
+<SpyMan> bem explicado
+<[Hi2K]> ok kra
+<[Hi2K]> vc foi adcionado a lista dos hax0rs
+<[Hi2K]> tenha uma boa tarde
+<[Hi2K]>  http://sohtemhaxor.wdotnet.net/
+<SpyMan> ok
+<[Hi2K]> o seu livro eh coisa de lamer ler
+<[Hi2K]> ahuahuauaha
+<[Hi2K]> vc eh lamer
+<[Hi2K]> usa ninja script
+<[Hi2K]> entra no #brasil
+<[Hi2K]> que coisa lamer
+<[Hi2K]> soh mais uma coisa
+<[Hi2K]> o que eh bufer overflow?
+<SpyMan> que script você usa?
+<[Hi2K]> mIRC puro
+<SpyMan> que script você usa?
+<[Hi2K]> e se eu quiser eu crio o script
+<[Hi2K]> o que eh bufer overflow?
+<SpyMan> ok
+<SpyMan> falta de memória para comunicação na rede /* AUHAUHAHAU */
+
+-
+SpyMan is ~conta@pRTSFbbSbEiY.200.250.43.O * www.ninjascript.com.br
+SpyMan on #hacker #brasil #toledo 
+SpyMan using CompuLand.RIO.RJ.Brasnet.org [0.0.0.0] CompuLand - Petropolis/RJ
+spyman End of /WHOIS list.
+-
+
+<SpyMan> qual hp por exemplo?
+<[Hi2K]> www.colegiosvicentinos.org.br
+<[Hi2K]> essa eh uma facil
