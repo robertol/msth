@@ -1,0 +1,28 @@
+{
+  "wanted": [
+    {
+      "nick": "|suicide|",
+      "content": "Este lammah eu tive uma \"conversa hax0r muito legal\" com ele, o log aki, a ultima vez que ele apareceu foi no canal #hackernews, ja entrou pedindo Ips infectados com wincrash... Acabou sendo banido do canal e falando que ia fazer o primo dele que era IRCADMIN fechar o canal, hilariante..."
+      "attachment1": "zines/log-suicide.txt"
+    },
+    {
+      "nick": "JcS",
+      "content": "Esse é um exemplo perfeito de hax0r, o cara conecta em rede hackeana, invade por ftp, se transforma em hacker com um comando, esse cara eh fodissimo, tome cuidado com ele, o nome dele é mais hax0r ainda: Julio, veja o log dele em arquivo, e fotos."
+    },
+    {
+      "nick": "coffee-csg",
+      "content": "So lendo o log pra entender, o log aki.",
+      "attachment1": "zines/log-coffee-csg.txt"
+    },
+    {
+      "nick": "{{{SKAY}}}",
+      "content": "Esse eh hax0r, isto que eh um verdadeiro h4x0r, o log aki. Huahuehhuahea",
+      "attachment1": "zines/log-skay.txt"
+    },
+    {
+      "nick": "SpyMan",
+      "content": "Naum foi esse hax0r, que escreveu o livro \"Manual completo dos hackers\"? log. Nossa, muito h4x0r!",
+      "attachment1": "zines/log-skyman.txt"
+    }
+  ]
+}
