@@ -1,0 +1,38 @@
+O hax0reamento local
+
+ No dia 1 do ano 2000 um cara cujo o nick que eu não posso falar que
+é encr*pt, que era o dono (?) do servidor onde esta página estava,
+por motivos tolos de discussão no canal #soh_tem_hax0r modificou nossa
+página principal, e mandou para diversos sites de mirrors como
+attrition.org, alldas.de, etc.. E a coisa mais boba foi estes sites
+publicarem como hacked, entao, se vc quer aparecer pelo menos uma vez
+naquelas listas de hacked para falar para seus amigos q vc é hacker,
+entao ache um servidor que deixe algo como seunome.servidor.com, assim
+vc inventa o nome de uma empresa e coloque escrito Hacked by seu_nick
+no html principal.
+
+ E essa não é a primeira vez que o encr*pt faz isso :|, lembram quando
+o hax0r do vugo conseguiu o curriculo dele e o publicou em uma pagina,
+e o encr*pt ficou puto da vida e "hackeou" akele site www.brdomains.com.br ?
+ O site do movimento ficava em sohtemhaxor.wdotnet.net, o wdotnet.net é
+o servidor dele. tah vou te provar agora que não é a primeira vez
+q o encr*pt faz um hax0reamento local, la vai:
+
+$ host www.brdomains.com.br
+www.brdomains.com.br CNAME brdomains.com.br
+brdomains.com.br     A     200.210.5.236
+$ host wdotnet.net
+wdotnet.net          A     200.210.5.236
+$
+
+Epa! mesmo IP, mas ainda não há provas suficientes
+
+$ lynx www.brdomains.com.br
+
+ this site has been owned by encr*pt
+
+$
+
+Como um site de uma "empresa" ficaria tanto tempo com html hacked?
+
+sei la q dia do 1 de 2001
